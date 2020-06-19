@@ -263,8 +263,8 @@ input{
 
 .equipe-item {
   flex: 1 300px;
-  margin-bottom: 40px;
   text-align: center;
+  margin-top: 20px;
 }
 
 .equipe-item h2{
@@ -277,7 +277,7 @@ input{
 }
 
 .equipe-completa img{
-  margin: 0 70px;
+  margin: 0 auto;
 
 }
 
